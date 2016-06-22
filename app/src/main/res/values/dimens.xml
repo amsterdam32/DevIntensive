@@ -5,6 +5,7 @@
 
     <!--Sizes-->
     <item name="size_small_24">24dp</item>
+    <item name="size_medial_48">24dp</item>
     <item name="size_medium_56">56dp</item>
     <item name="size_large_72">72dp</item>
 
@@ -13,7 +14,14 @@
     <item name="spacing_normal_16">16dp</item>
     <item name="spacing_medial_24">24dp</item>
     <item name="spacing_medium_32">32dp</item>
+    <item name="spacing_medium_40">40dp</item>
+    <item name="spacing_medium_48">48dp</item>
     <item name="spacing_large_56">56dp</item>
+    <item name="spacing_large_64">64dp</item>
     <item name="spacing_larger_72">72dp</item>
+    <item name="spacing_larger_80">80dp</item>
+    <item name="spacing_huge_88">88dp</item>
+    <item name="spacing_huge_96">96dp</item>
+    <item name="spacing_huge_104">104dp</item>
 
 </resources>
